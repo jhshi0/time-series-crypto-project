@@ -1,0 +1,5 @@
+# time-series-crypto-project
+
+THIS IS A REPO FOR PROJECT NOTEBOOKS AND RELATED FILES FOR TIME-SERIES-ON-CRYPTOCURRENCY.
+
+LINK FOR PROJECT TRACKING DOCUMENT IS https://www.overleaf.com/read/qjfjbwhqskjq
